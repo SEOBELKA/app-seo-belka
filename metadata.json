@@ -1,0 +1,6 @@
+{
+  "name": "SEO Matrix & Kernel Density Analyzer",
+  "description": "Analizador de rendimiento SEO cartesiano (Impresiones vs Clics GSC), diagnóstico de CTR, recomendaciones estratégicas y modelo de densidad de Kernel para estimar el potencial de posicionamiento de palabras clave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
